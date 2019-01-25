@@ -98,7 +98,7 @@ experiences:
         aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
         architecto beatae vitae dicta sunt explicabo.
 
-      - Adversarial examples capable of fooling image classifiers generated (ex. adversarial examples to fool MNIST classifier, examples to fool finetuned VGG16 in CIFAR-10).
+          - Bullet point
           - Bullet point
 
     - role: Senior Software Engineer
