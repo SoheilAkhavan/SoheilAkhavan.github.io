@@ -85,8 +85,8 @@ education:
 
 experiences:
     - role: Master Thesis
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+      time: 2017 - 2019
+      #company: Startup Hubs, San Francisco
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -98,7 +98,7 @@ experiences:
         aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
         architecto beatae vitae dicta sunt explicabo.
 
-          - Bullet point
+      - Adversarial examples capable of fooling image classifiers generated (ex. adversarial examples to fool MNIST classifier, examples to fool finetuned VGG16 in CIFAR-10).
           - Bullet point
 
     - role: Senior Software Engineer
