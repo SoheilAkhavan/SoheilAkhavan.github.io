@@ -101,18 +101,19 @@ experiences:
         - Evaluated the performance of the defense mechanisms of:
           Adversarial Training and Defense Distillation. 
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Kaggle Competitions
+      time: 2016 - present 
+      company: kaggle.com
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+        - Participated in 10 different competitions
+        - Vision: Developed image classifiers using transfer learning. 
+          In particular, finetuning ResNet-50 for competitions including 
+          'Dog vs. Cat' (achieved accuracy: 99.7\%, training time: less than 10 minutes)
+        - Structure Data (Rossmann Store Competition): TriedRegression analysis, 
+          Random Forest, Gradient Boosting Trees. My proposed fully connected NN with capability 
+          of learning embeddings for categorical variables reached a loss value at rank 10. 
+        - Time Series: Performing time-series analysis through NN by supplying time features 
+          into the model as an approach easier than the traditional statistical time series models.
 
     - role: UI Developer
       time: 2012 - 2014
