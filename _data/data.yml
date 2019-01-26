@@ -90,9 +90,9 @@ experiences:
       details: |
 
 
-        Adversarial examples capable of fooling image classifiers generated 
-        (ex. adversarial examples to fool MNIST classifier, examples to fool
-        finetuned VGG16 in CIFAR-10).
+        - Adversarial examples capable of fooling image classifiers generated 
+          ex. adversarial examples to fool MNIST classifier, examples to fool
+          finetuned VGG16 in CIFAR-10).
           - Bullet point
           - Bullet point
 
