@@ -108,7 +108,7 @@ experiences:
         - Participated in 10 different competitions
         - Vision: Developed image classifiers using transfer learning. 
           In particular, finetuning ResNet-50 for competitions including 
-          'Dog vs. Cat' (achieved accuracy: 99.7\%, training time: less than 10 minutes)
+          'Dog vs. Cat' (achieved accuracy: 99.7%, training time: less than 10 minutes)
         - Structure Data (Rossmann Store Competition): TriedRegression analysis, 
           Random Forest, Gradient Boosting Trees. My proposed fully connected NN with capability 
           of learning embeddings for categorical variables reached a loss value at rank 10. 
