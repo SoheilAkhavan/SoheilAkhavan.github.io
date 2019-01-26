@@ -115,18 +115,14 @@ experiences:
         - Time Series: Performing time-series analysis through NN by supplying time features 
           into the model as an approach easier than the traditional statistical time series models.
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Engineering intern
+      time: 2014 - 2017
+      company: PCC Rollmet, Irvine, CA
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+        - Helping the quality department with creating quality inspection plans,
+          Non Conformance Reports (NCR’s), \\Corrective Action Report (CAR’s), 
+          Supplier Corrective Action Report (SCAR’s) and Supplier Submittal Request (SSR’s),
+          Creating  First Article Inspection (FAI) plan per QE’s direction
 
 projects:
     title: Projects
