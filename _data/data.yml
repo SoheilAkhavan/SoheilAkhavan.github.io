@@ -93,8 +93,13 @@ experiences:
         - Adversarial examples capable of fooling image classifiers generated 
           ex. adversarial examples to fool MNIST classifier, examples to fool
           finetuned VGG16 in CIFAR-10).
-          - Bullet point
-          - Bullet point
+        - Provided an observational and theoretical justification that a change 
+          orthogonal to the feature space can lead to adversarial examples.
+        - Wrote codes and detailed explanations on state-of-the art adversarial example
+          generation mechanisms including: Fast Gradient Sign Method (FGSM), 
+          Jacobian-Based Saliency Map Method, and Carlini-Wagner Method.  
+        - Evaluated the performance of the defense mechanisms of:
+          Adversarial Training and Defense Distillation. 
 
     - role: Senior Software Engineer
       time: 2014 - 2015
