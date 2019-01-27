@@ -154,6 +154,10 @@ projects:
         link: "#"
         tagline: "SVD, PCA, Random Projection"
         
+      - title: Cloud Services
+        link: "#"
+        tagline: "AWS EC2, AWS S3, Paperspace"
+        
    
         
       
