@@ -124,9 +124,17 @@ experiences:
 
 skills:
     title: Skills &amp; Proficiency
+    
+    
 
     toolset:
       - name: Python Programing
+        details: |
+        - Helping the quality department with creating quality inspection plans,
+          Non Conformance Reports (NCR’s), \\Corrective Action Report (CAR’s), 
+          Supplier Corrective Action Report (SCAR’s) and Supplier Submittal Request (SSR’s),
+          Creating  First Article Inspection (FAI) plan per QE’s direction
+
         level: 98%
 
       - name: Numerical & ML Packages
