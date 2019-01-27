@@ -48,13 +48,10 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+      I am a Master Student majoring in Electrical Engineering and Computer Science 
+      with expertise in Machine Learning. My dissertation is on 'Adversarial Attacks as 
+      a Threat to Machine Learning Models'. I'm looking for full time jobs in Machine Learning
+      or Data Science to be started upon my graduation in May, 2019.
 
 education:
     - degree: MSc in Electrical Engineering 
