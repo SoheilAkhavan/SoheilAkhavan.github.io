@@ -134,29 +134,7 @@ projects:
         link: "#"
         tagline: "NumPy, SciPy, Pandas, StatsModels, Matplotlib, Seaborn, Tensorflow,  PyTorch, scikit-learn, Jupyter, XGBoost"
 
-      - title: Computer Vision
-        link: "#"
-        tagline: "Convolutional Neural Network, Pretrained Net (VGG16, VGG19, ResNet, Inception-V3), Transfer Learning "
-
-      - title: Natural Language Processing
-        link: "#"
-        tagline: "Recurrent Neural Network/LSTM/GRU, Word Embedding, Word2Vec, GloVe, N-gram, TF-IDF "
-
-      - title: Supervised Learning
-        link: "#"
-        tagline: "Linear Models, Generalized Linear Models, Random Forest, Gradient Boosting Tree, LASSO, Naive Bayes"
-        
-      - title: Unsupervised Learning
-        link: "#"
-        tagline: "K-means, DBSCAN, HDBSCAN, KNN"
-        
-      - title: Data Dimension Reduction
-        link: "#"
-        tagline: "SVD, PCA, Random Projection"
-        
-       - title: Cloud Services
-        link: "#"
-        tagline: "AWS EC2, AWS S3, Paperspace"
+      
         
         
       
