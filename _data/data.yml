@@ -130,22 +130,36 @@ projects:
         link: "#hook"
         tagline: "Python, Cython, C, C++, MATLAB, Mathematica"
 
-      - title: DevStudio
+      - title: Numerical & ML Packages
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "NumPy, SciPy, Pandas, StatsModels, Matplotlib, Seaborn, Tensorflow,  PyTorch, scikit-learn, Jupyter, XGBoost"
 
-      - title: Tempo
+      - title: Computer Vision
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Convolutional Neural Network, Pretrained Net (VGG16, VGG19, ResNet, Inception-V3), Transfer Learning "
 
-      - title: Atom
+      - title: Natural Language Processing
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "Recurrent Neural Network/LSTM/GRU, Word Embedding, Word2Vec, GloVe, N-gram, TF-IDF "
 
-      - title: Delta
+      - title: Supervised Learning
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
+        tagline: "Linear Models, Generalized Linear Models, Random Forest, Gradient Boosting Tree, LASSO, Naive Bayes"
+        
+      - title: Unsupervised Learning
+        link: "#"
+        tagline: "K-means, DBSCAN, HDBSCAN, KNN"
+        
+      - title: Data Dimension Reduction
+        link: "#"
+        tagline: "SVD, PCA, Random Projection"
+        
+       - title: Cloud Services
+        link: "#"
+        tagline: "AWS EC2, AWS S3, Paperspace"
+        
+        
+      
 skills:
     title: Skills &amp; Proficiency
     
