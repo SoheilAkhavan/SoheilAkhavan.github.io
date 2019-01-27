@@ -129,10 +129,10 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Python Programing
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Numerical & ML Packages
         level: 98%
 
       - name: Angular
