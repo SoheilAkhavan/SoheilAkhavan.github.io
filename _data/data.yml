@@ -137,6 +137,13 @@ projects:
       - title: Computer Vision
         link: "#"
         tagline: "Convolutional Neural Network, Pretrained Net (VGG16, VGG19, ResNet, Inception-V3), Transfer Learning "
+        
+      - title: Natural Language Processing
+        link: "#"
+        tagline: "Recurrent Neural Network/LSTM/GRU, Word Embedding, Word2Vec, GloVe, N-gram, TF-IDF "
+
+      
+        
 
       
       
