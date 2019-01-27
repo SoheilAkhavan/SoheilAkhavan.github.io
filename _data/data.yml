@@ -146,6 +146,12 @@ projects:
         link: "#"
         tagline: "Linear Models, Generalized Linear Models, Random Forest, Gradient Boosting Tree, LASSO, Naive Bayes"
         
+      - title: Unsupervised Learning
+        link: "#"
+        tagline: "K-means, DBSCAN, HDBSCAN, KNN"
+        
+      
+        
 
 
       
