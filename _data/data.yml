@@ -128,7 +128,7 @@ projects:
     assignments:
       - title: Programming Languages
         link: "#hook"
-        tagline: "Python, Cython, C, C++, MATLAB, Mathematica"
+        tagline: "Python, SQL, Cython, C, C++, MATLAB, Mathematica"
 
       - title: Numerical & ML Packages
         link: "#"
@@ -181,17 +181,17 @@ skills:
       - name: Numerical & ML Packages
         level: 98%
 
-      - name: Angular
+      - name: SQL
         level: 98%
 
-      - name: HTML5 & CSS
-        level: 95%
+    #  - name: HTML5 & CSS
+    #    level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+     # - name: Ruby on Rails
+     #   level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+     # - name: Sketch & Photoshop
+     #   level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
