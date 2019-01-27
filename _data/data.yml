@@ -150,6 +150,12 @@ projects:
         link: "#"
         tagline: "K-means, DBSCAN, HDBSCAN, KNN"
         
+      - title: Data Dimension Reduction
+        link: "#"
+        tagline: "SVD, PCA, Random Projection"
+        
+   
+        
       
         
 
