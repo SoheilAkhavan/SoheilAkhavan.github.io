@@ -146,17 +146,7 @@ projects:
         link: "#"
         tagline: "Linear Models, Generalized Linear Models, Random Forest, Gradient Boosting Tree, LASSO, Naive Bayes"
         
-      - title: Unsupervised Learning
-        link: "#"
-        tagline: "K-means, DBSCAN, HDBSCAN, KNN"
-        
-      - title: Data Dimension Reduction
-        link: "#"
-        tagline: "SVD, PCA, Random Projection"
-        
-       - title: Cloud Services
-        link: "#"
-        tagline: "AWS EC2, AWS S3, Paperspace"
+
 
       
         
